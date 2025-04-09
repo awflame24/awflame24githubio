@@ -1,0 +1,16 @@
+/* paragraph 스타일 지점 */
+p {
+    color:cornflowerblue;
+}
+
+a {
+    color:darkkhaki;
+    font-style:italic;
+    font-family:sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    align-content: center;
+}
